@@ -1,0 +1,27 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import 'tachyons';
+import  App from './App';
+import registerServiceWorker from './registerServiceWorker';
+//import Home from './Home';
+//import CardList from './CardList';
+//import {CoursesStan} from './CoursesStan';
+//import Quiz from './Quiz';
+//import Footer from './Footer';
+//import Navigation from './Navigation';
+//import Standard from './Standard';
+//import HcardLinks from './HcardLinks';
+//import Facilitator from './Facilitator';
+import ScrollBox from './ScrollBox';
+//import About from './About';
+//import Page from './Page';
+//import PageCard from './PageCard';
+//import PageCardList from './PageCardList';
+//import {PCardList} from './PageCardAPI';
+//import Test from './test1';
+//import TopicA from './test2';
+import RCarusel from './RCarousel';
+
+ReactDOM.render(<App/>, document.getElementById('root'));
+registerServiceWorker();

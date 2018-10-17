@@ -1,0 +1,77 @@
+.bigCard{
+	width:250px;
+	display: flex;
+	flex-direction: column;
+	
+
+}
+.bigImg{
+	height:300px;
+	width:100%;
+	object-fit: contain;
+	border:0px;
+	margin-bottom: .75em;
+	padding:0em;
+	
+
+}
+.bigText{
+		font-size: .75em;
+	
+}
+.bigTag{
+	margin-top: -3em;
+	background-color: #1b84bd;
+	height: 2em;
+	font-size: .75em;
+	margin-bottom: 0em;
+	/*align-content: center;*/
+	text-align: center;
+	border-radius: 0px 0px 10px 10px;
+    border:2px solid red; 
+}
+.banner{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+}
+
+@media only screen and (max-width: 1024 px){
+    .bigCard{
+        font-size: .9em;
+        grid-gap: 0em;
+    }
+ }  
+@media only screen and (max-width: 980px){
+    .bigCard{
+        font-size: .7em;
+        grid-gap: 0em;
+    }
+ }
+ @media only screen and (max-width: 768px){
+    .bigCard{
+        font-size: .7em;
+        grid-gap: 0em;
+    }
+ }
+
+ @media only screen and (max-width: 568px){
+    .bigCard{
+        font-size: .5em;
+        grid-gap: 0em;
+    }
+ }
+ @media only screen and (max-width: 500px){
+    .bigCardbigCard{
+        font-size: .4em;
+        grid-gap: 0em;
+    }
+ }
+
+ @media only screen and (max-width: 422px){
+    .bigCard{
+        font-size: .3em;
+        grid-gap: 0em;
+    }
+ }
