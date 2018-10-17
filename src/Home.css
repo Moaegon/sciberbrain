@@ -112,7 +112,7 @@ img{
     "headLeft headRight"
     "headLeft headRight"
     "headLeft headRight";
-    grid-column-gap: .5em;
+    grid-column-gap: 1em;
 }
 
 .headLeft{
