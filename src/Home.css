@@ -140,7 +140,7 @@ h3 p{
     height: auto;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(.5em, 16.25em)1fr;
+    grid-template-rows: 11em, auto;
     grid-template-areas: 
     "hLeftBoard"
     "hLeftLinker";
@@ -149,7 +149,7 @@ h3 p{
     height:auto;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(.5em, 16.25em)1fr;
+    grid-template-rows: 11em, auto;
     grid-template-areas: 
     "hRightBoard"
     "hRightLinks";
