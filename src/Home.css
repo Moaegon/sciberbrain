@@ -219,6 +219,9 @@ padding-left: 3px;
   grid-template-areas: 
    "spans spans spans "
    "spans spans spans ";
+   border-bottom-right-radius: 35px;
+   border-bottom-left-radius: 35px;
+   border:2px solid #ffff;
    
 
 }
