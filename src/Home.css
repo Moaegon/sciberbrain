@@ -38,13 +38,8 @@ h3 p{
     .tBotL{
        font-size: .5em; 
     }
-<<<<<<< HEAD
     .tHead{font-size: .5em;}
     .tBot{font-size: .5em;}
-=======
-    .tHead{font-size: .5em}
-    .tBot{font-size: .5em}
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
  }
 
  @media only screen and (max-width: 568px){
@@ -58,13 +53,8 @@ h3 p{
     .tBotL{
        font-size: .5em; 
     }
-<<<<<<< HEAD
     .tHead{font-size: .5em;}
     .tBot{font-size: .5em;}
-=======
-    .tHead{font-size: .5em}
-    .tBot{font-size: .5em}
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
     .headLinks{
         height:20em;
     }
@@ -80,13 +70,8 @@ h3 p{
     .tBotL{
        font-size: .5em; 
     }
-<<<<<<< HEAD
     .tHead{font-size: .5em;}
     .tBot{font-size: .5em;}
-=======
-    .tHead{font-size: .5em}
-    .tBot{font-size: .5em}
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
  }
 
  @media only screen and (max-width: 422px){
@@ -100,13 +85,8 @@ h3 p{
     .tBotL{
        font-size: .5em; 
     }
-<<<<<<< HEAD
     .tHead{font-size: .5em;}
     .tBot{font-size: .5em;}
-=======
-    .tHead{font-size: .5em}
-    .tBot{font-size: .5em}
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
     
  }
  .scrollB{
@@ -157,11 +137,7 @@ h3 p{
 }
 
 .headLeft{
-<<<<<<< HEAD
     height:auto;
-=======
-    height: auto;
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 11em, auto;
@@ -181,11 +157,7 @@ h3 p{
 
  .hLeftBoard{
     display: flex;
-<<<<<<< HEAD
     height:11em;
-=======
-    height:auto;
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
     background-image: url(./images/standardBG.jpg);
     background-size:100% 100%;
     background-repeat: no-repeat;
@@ -203,20 +175,12 @@ h3 p{
     display: inline-block;
  }
 .tHeadL{
-<<<<<<< HEAD
    
-=======
-  font-size: 1em;  
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
   margin: 0px;
   padding-left: 3px;
 }
 .tBotL{
-<<<<<<< HEAD
 
-=======
-font-size: 1em;
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
 margin: 0px;
 padding-left: 3px;
 }
@@ -225,10 +189,7 @@ padding-left: 3px;
     padding-right: 10px; }
  .hRightBoard{
     display: inline-block;
-<<<<<<< HEAD
     height:11em;
-=======
->>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
     background-image: url(./images/advancedBG.jpg);
     background-size:100% 100%;
     background-position: center;
