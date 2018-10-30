@@ -18,12 +18,14 @@
     "tachyons": "^4.11.1"
   },
   "scripts": {
+<<<<<<< HEAD
     "start": "react-scripts start",   
+=======
+    "start": "serve -s build",
+>>>>>>> 179004c7e2d3eeafb4dd35de22952a7c22287c2a
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build"
   }
 }
-
-  
