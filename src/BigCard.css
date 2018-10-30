@@ -1,40 +1,54 @@
 .bigCard{
 	width:250px;
+	height: auto;
 	display: flex;
+	padding:.5em;
 	flex-direction: column;
 	
 
 }
 .bigImg{
 	height:300px;
+	display: inline-block;
 	width:100%;
-	object-fit: contain;
-	border:0px;
-	margin-bottom: .75em;
-	padding:0em;
+	object-fit: cover;
+	/*border:.5px solid red;*/
+	margin-bottom: 0em;
+	/*padding:.5em;*/
 	
 
 }
 .bigText{
 		font-size: .75em;
+		align-self: center;
+		margin:0px;
 	
 }
 .bigTag{
-	margin-top: -3em;
+	/*margin-top: -3em;*/
+	display: inline-block;
 	background-color: #1b84bd;
 	height: 2em;
 	font-size: .75em;
-	margin-bottom: 0em;
+	margin: 0em;
+	justify-content: center;
+	align-items: center;
 	/*align-content: center;*/
 	text-align: center;
 	border-radius: 0px 0px 10px 10px;
     border:2px solid red; 
+    position: relative;
 }
 .banner{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-content: center;
+}
+.tagText{
+	text-align: center;
+	margin:0;
+
 }
 
 @media only screen and (max-width: 1024 px){

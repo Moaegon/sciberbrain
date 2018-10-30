@@ -96,7 +96,7 @@ var TopicAPI3 = {
                   },
             ],
           "quiz": {
-  "quizTitle": "React Quiz Component Demo",
+  "quizTitle": "Stem-Cell Quiz",
   "questions": [
     {
       "question": "Approximately, how many cells are there in an adult human?",
@@ -107,7 +107,7 @@ var TopicAPI3 = {
         "Millions",
         "Trillions"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": " Adult stem cells help us to maintain and repair our bodies throughout our lives. Which of the following is NOT true about adult stem cells?",
@@ -118,7 +118,7 @@ var TopicAPI3 = {
         "They are found in children",
         "They can grow into any cell type"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "4"
     },
     {
       "question": "New brain cells grown from stem cells might help us to treat diseases which affect the brain. Which of the following diseases would not be helped in this way?",
@@ -129,7 +129,7 @@ var TopicAPI3 = {
         "Heart disease",
         "Stroke"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "3"
     },
     {
       "question": "Which is not allowed in the UK?",
@@ -140,7 +140,7 @@ var TopicAPI3 = {
           "Research into using stem cells to test out new drugs",
           "Research into using stem cells to create human clones"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Scientists have found a way to turn human skin cells back into embryonic-like stem cells, what is the advantage over embryonic stem cells?",
@@ -151,7 +151,7 @@ var TopicAPI3 = {
         "The stem cells will be higher quality",
         "It reduces the need to harvest human stem cells from embryos"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "4"
     },
      {
       "question": "How do scientists hope to use stem cells to treat diabetes?",
@@ -173,7 +173,7 @@ var TopicAPI3 = {
       "They are separated from an embryo that is four to five days old",
       "They can only give rise to only a limited number of body tissues." 
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "1"
     },
     {
       "question": "Human adult stem cells show great potential for future medical research. Which of the following is NOT true?",
@@ -184,7 +184,7 @@ var TopicAPI3 = {
         "They are difficult to identify and harvest",
         "They are found in bone marrow, the brain and skin"
               ],
-      "correctAnswer": "2"
+      "correctAnswer": "4"
     },
     {
       "question": " Some stem cells can differentiate into any cell, some can give rise to almost any cell type and some are committed to produce specific cell types. Which of the combinations below describes a decrease in ability to differentiate?",
@@ -195,7 +195,7 @@ var TopicAPI3 = {
         "Multipotent, pluripotent, totipotent",
         "Pluripotent, totipotent, multipotent"
               ],
-      "correctAnswer": "3"
+      "correctAnswer": "2"
     },
     {
       "question": "Which of the following is NOT true about human embryonic stem cells?",
@@ -263,7 +263,7 @@ var TopicAPI3 = {
                   },
             ],
           "quiz": {
-  "quizTitle": "React Quiz Component Demo",
+  "quizTitle": "Genetic-Engineering Quiz",
   "questions": [
     {
       "question": "In most cells in your body, the nucleus contains....?",
@@ -274,7 +274,7 @@ var TopicAPI3 = {
         "All of the molecules needed to make the different bits of an organism",
         "The instructions needed to make a small part of an organism."
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "1"
     },
     {
       "question": "Which answer is INCORRECT: 'A chromosome is ...'?",
@@ -303,7 +303,8 @@ var TopicAPI3 = {
       "questionType": "text",
       "answers": [
          "James Watson",
-         "Francis Crick"
+         "Francis Crick",
+         "Neither! It was Rosalind Franklin"
       ],
       "correctAnswer": "3"
     },
@@ -326,7 +327,7 @@ var TopicAPI3 = {
         "A small circle of DNA found within the nucleii of bacteria",
         "Long strands of DNA that have been twisted and coiled up so they are visible to the naked eye"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "1"
     },
     {
       "question": "After scientists insert genes into plasmids, why do they put the plasmids into bacteria?",
@@ -336,7 +337,7 @@ var TopicAPI3 = {
       "The plasmids replicate and produce more copies of the bacteria",
       "The bacteria keep the plasmids warm until they hatch" 
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "4"
     },
     {
       "question": "Why do scientists often insert genes into plasmids which are resistant to antibiotics?",
@@ -358,7 +359,7 @@ var TopicAPI3 = {
         "It will only join up with complimentary overhanging DNA.",
         "It can be rejoined with ligase enzymes in a process called transformation "
               ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Which of the following is an example of transformation?",
@@ -369,7 +370,7 @@ var TopicAPI3 = {
         "When plasmids are inserted into bacteria",
         "When plasmids are treated with antibiotics"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "3"
         }
       ]
     },
@@ -426,7 +427,7 @@ var TopicAPI3 = {
                   },
             ],
           "quiz": {
-  "quizTitle": "React Quiz Component Demo",
+  "quizTitle": "Brain-Chemistry Quiz ",
   "questions": [
     {
       "question": "Which of the following would NOT be turned into electrical messages in your body?",
@@ -458,7 +459,7 @@ var TopicAPI3 = {
         "The midbrain",
         "The hindbrain"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "3"
     },
     {
       "question": "Which is NOT true of pathways in the brain?",
@@ -469,7 +470,7 @@ var TopicAPI3 = {
           "They can link to other pathways",
           "They can get weaker if not used"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "2"
     },
     {
       "question": "Which describes how a neuron passes messages happens?",
@@ -480,7 +481,7 @@ var TopicAPI3 = {
         "Neurotransmitters are released into the synapse from one neuron and land on the axon of the next neuron",
         "Neurotransmitters are released from one neuron into the synapse and land on the dendrite of the next neuron"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "4"
     },
      {
       "question": "Which drugs do NOT exist?",
@@ -513,7 +514,7 @@ var TopicAPI3 = {
         "Decomposed",
         "Decontaminate"
               ],
-      "correctAnswer": "2"
+      "correctAnswer": "1"
     },
     {
       "question": "Which of the following is NOT a result of abnormal neurotransmitter levels?",
@@ -524,7 +525,7 @@ var TopicAPI3 = {
         "Problems with concentration (ADHD).",
         "Anxiety"
               ],
-      "correctAnswer": "3"
+      "correctAnswer": "2"
     },
     {
       "question": "Neurotransmitters land on receptors on the next neuron producing an electrical signal. After that, the neurotransmitter molecules are usually..?",
@@ -592,7 +593,7 @@ var TopicAPI3 = {
                   },
             ],
           "quiz": {
-  "quizTitle": "React Quiz Component Demo",
+  "quizTitle": "Vaccinations Quiz ",
   "questions": [
     {
       "question": "What are the chemicals produced by some white blood cells for targeting and destroying bacteria or viruses?",
@@ -603,7 +604,7 @@ var TopicAPI3 = {
         "Pathogens",
         "Antibodies"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Once your white cells have defeated a pathogen, they seem to remember how to make antibodies the next time it appears. This means...?",
@@ -614,7 +615,7 @@ var TopicAPI3 = {
         "...you will feel dizzy and tired",
         "...the invaders will be destroyed before they have chance to make you feel unwell"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "4"
     },
     {
       "question": "A vaccine can be made from a disease causing pathogen. It shouldn't make you sick because the pathogen....?",
@@ -625,7 +626,7 @@ var TopicAPI3 = {
         "... is a dead or weakened form",
         "... has gone off"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "3"
     },
     {
       "question": "For herd immunity to be effective, what percentage of the population need to be vaccinated?",
@@ -636,7 +637,7 @@ var TopicAPI3 = {
         "60 - 70%",
         "80 - 90%"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "What happened when people stopped getting their children vaccinated with the MMR vaccine?",
@@ -647,7 +648,7 @@ var TopicAPI3 = {
         "There was a significant fall in autism cases",
 "There were significantly more cases of measles"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "4"
     },
      {
       "question": "Which of the following target specific pathogens?",
@@ -658,7 +659,7 @@ var TopicAPI3 = {
         "Phagocytes in the second line of defence",
         "Lymphocytes in the third line of defence"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "The transmission of pathogens is about how they are passed from one organism to another. Which of the following describes Direct methods of transmission?",
@@ -669,7 +670,7 @@ var TopicAPI3 = {
       "Spreading diseases through contaminated food (like salmonella)",
       "Spreading diseases through the air (like the influenza virus)."
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "1"
     },
     {
       "question": "Indirect methods of transmission include:?",
@@ -680,7 +681,7 @@ var TopicAPI3 = {
         "Spreading diseases via a vector; another organism. (e.g. malaria is transmitted by the mosquito)",
         "All of the above"
               ],
-      "correctAnswer": "2"
+      "correctAnswer": "4"
     },
     {
       "question": "Our first line of defence against infection stops pathogens entering your body with physical and chemical barriers. Which of the following is a chemical barrier?",
@@ -691,7 +692,7 @@ var TopicAPI3 = {
         "Cilia in our airways",
         "Lysozymes (enzymes in tears)"
               ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Which is NOT passive immunisation ?",
@@ -702,7 +703,7 @@ var TopicAPI3 = {
         "Mother’s breast milk (natural immunity)",
         "When our own lymphocytes respond to infections"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "4"
         }
       ]
     },
@@ -758,7 +759,7 @@ var TopicAPI3 = {
                   },
             ],
           "quiz":{
-  "quizTitle": "React Quiz Component Demo",
+  "quizTitle": "Clinical-Trials Quiz ",
   "questions": [
     {
       "question": "A placebo is...?",
@@ -769,7 +770,7 @@ var TopicAPI3 = {
         "A pill with similar properties to the drug being tested in the trial",
         "An ineffectual ‘false’ pill which does not contain the chemical being tested"      
         ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "In a randomised double-blind controlled trial...?",
@@ -802,7 +803,7 @@ var TopicAPI3 = {
           "A small dose of the drug in thousands of patients with the disease",
           "A small dose of the drug in a few healthy volunteers"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Phase 2 trials test...?",
@@ -813,7 +814,7 @@ var TopicAPI3 = {
         "A small dose of the drug in thousands of patients with the disease",
         "A small dose of the drug in a few healthy volunteers"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "2"
     },
      {
       "question": "Phase 3 trials test...?",
@@ -835,7 +836,7 @@ var TopicAPI3 = {
       "A healthy volunteer",
       "A rat or small mammal"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "1"
     },
     {
       "question": "What does In vitro mean?",
@@ -846,7 +847,7 @@ var TopicAPI3 = {
         "The technique of performing a given procedure in a controlled environment outside of a living organism",
         "Experimentation done in pure oxygen"
               ],
-      "correctAnswer": "2"
+      "correctAnswer": "3"
     },
     {
       "question": "In the UK, the body controlling the regulation of clinical trials is the MHRA. This stands for?",
@@ -857,7 +858,7 @@ var TopicAPI3 = {
         "Medical Healthcare Regulators’ Authority",
         "Medicines and Healthcare products Regulatory Association"
               ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Clinical trials are NOT are used to test the safety and efficacy of…?",
@@ -868,7 +869,7 @@ var TopicAPI3 = {
         "Procedures including radiation therapy",
         "Individual doctor performance"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "4"
         }
       ]
     },
@@ -925,7 +926,7 @@ var TopicAPI3 = {
                   },
             ],
           "quiz": {
-  "quizTitle": "React Quiz Component Demo",
+  "quizTitle": "Evolution Quiz ",
   "questions": [
     {
       "question": "Which of these did Darwin think?",
@@ -936,7 +937,7 @@ var TopicAPI3 = {
         "Creatures best suited to island life would survive to breed but could never become a new species over many generations",
         "Creatures best suited to island life would survive to breed and pass on their features to their offspring"      
         ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "The earliest fossils that have been found were alive.....?",
@@ -947,7 +948,7 @@ var TopicAPI3 = {
         "2000 years ago and were similar organisms to those alive today",
         "2000 years ago and were very simple cells"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "1"
     },
     {
       "question": "Which of the following did Darwin use to support his ideas about evolution?",
@@ -958,7 +959,7 @@ var TopicAPI3 = {
         "When parent genes are copied, a mutation can give rise to new gene combinations and mutations which can cause changes in the organism's characteristics",
         "Characteristics which give a better chance of survival are more likely to be passed on from parent to offspring"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "4"
     },
     {
       "question": "Why are evolutionary biologists comparing protein molecules of different species?",
@@ -969,7 +970,7 @@ var TopicAPI3 = {
         "To see if species with closely related skeletons also have closely related proteins",
         "All of the above"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Which of the following CANNOT be explained by evolution by natural selection?",
@@ -980,7 +981,7 @@ var TopicAPI3 = {
         "Why humans have a short tail bone",
         "The purpose of life and the universe"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "4"
     },
      {
       "question": "Which other scientist had the same theory as Darwin’s?",
@@ -991,7 +992,7 @@ var TopicAPI3 = {
         "The Bishop of Oxford",
         "Charles Lyell"
       ],
-      "correctAnswer": "3"
+      "correctAnswer": "1"
     },
     {
       "question": "Which of the following does not provide evidence for evolution?",
@@ -1002,7 +1003,7 @@ var TopicAPI3 = {
       "The fossil record",
       "The Bible"
       ],
-      "correctAnswer": "2"
+      "correctAnswer": "4"
     },
     {
       "question": "All classes of tetrapods (vertebrates with four legs, including mammals and amphibians) possess the pentadactyl limb. This is a pattern of limb bones containing..?",
@@ -1013,7 +1014,7 @@ var TopicAPI3 = {
         "One proximal bone, seven distal bones, seven carpels, five metacarpals",
         "One proximal bone, five distal bones, five carpels, five metacarpals" 
               ],
-      "correctAnswer": "2"
+      "correctAnswer": "1"
     },
     {
       "question": "Mitochondrial DNA is a good source of evidence for human evolution because..?",
@@ -1024,7 +1025,7 @@ var TopicAPI3 = {
         "It is found in high levels in cells.",
         "All of the above"
               ],
-      "correctAnswer": "3"
+      "correctAnswer": "4"
     },
     {
       "question": "Genes tell cells how to make proteins such as enzymes. So by comparing an enzyme that has the same function in different species, we know how similar their genes are because…?",
@@ -1035,7 +1036,7 @@ var TopicAPI3 = {
         "Similar enzymes = similar genes = closely related",
         "Similar genes = similar genes = the same species"
       ],
-      "correctAnswer": "1"
+      "correctAnswer": "3"
         }
       ]
     },
