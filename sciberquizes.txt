@@ -1,4 +1,4 @@
-Q1. Approximately, how many cells are there in an adult human?
+﻿Q1. Approximately, how many cells are there in an adult human?
 Hundreds
 Thousands
 Millions
@@ -96,6 +96,7 @@ Q7. After scientists insert genes into plasmids, why do they put the plasmids in
 The genes replicate and produce more copies of the plasmid
 The plasmids replicate and produce more copies of the bacteria
 The bacteria keep the plasmids warm until they hatch
+The bacteria replicate and produce more copies of the gene
 
 Q8. Why do scientists often insert genes into plasmids which are resistant to antibiotics?
 They can harvest genes which have not been contaminated with bacteria
