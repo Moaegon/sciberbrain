@@ -9,7 +9,7 @@ import PageCardList from './PageCardList';
 import PageCardAPI from './PageCardAPI';
 import {PCardList} from './PageCardAPI';
 import Discuss from './Discuss.js'
-import Quiz from 'react-quiz-component';
+import Quiz from 'react-quiz-component-clone';
 import {NavHeader} from './NavHeader';
 
 
