@@ -21,5 +21,3 @@ const AnswerOption = () => {
 }
 
 export default AnswerOption; 
-
-//edit for git
