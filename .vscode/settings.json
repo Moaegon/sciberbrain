@@ -2,5 +2,6 @@
     "appService.deploySubpath": "",
     "appService.zipIgnorePattern": [
         "node_modules{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c719fcf6-1a6a-4337-8f2a-af85ee0e1b8c/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/sciberbain-prod"
 }
